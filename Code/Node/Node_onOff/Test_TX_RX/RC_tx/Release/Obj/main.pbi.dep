@@ -1,0 +1,6 @@
+main.pbi: C:\Users\NgHieu-PC\Desktop\Hoc\STM\STM8\Projects\RC_tx\RF24.h \
+  C:\Users\NgHieu-PC\Desktop\Hoc\STM\STM8\Projects\RC_tx\nRF24L01.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\io_macros.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\iostm8s103f3.h \
+  C:\Users\NgHieu-PC\Desktop\Hoc\STM\STM8\Projects\RC_tx\main.c
